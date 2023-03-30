@@ -1,0 +1,5 @@
+Our project is an AR game made with Unity mono
+The goal is to last the longer as possible
+To do so, the player has to click on the cubes that appears in the game
+Each destroyed cube is one seconde added to the timmer
+The game is over when the timer ends
